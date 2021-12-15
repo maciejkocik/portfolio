@@ -45,12 +45,8 @@ html {
   }
   
   .social-media {
-    position: absolute;
-    bottom: 1em;
     color: #BBB;
     font-size: 0.8em;
-    text-align: center;
-    width: 90%;
   }
   
   a {
